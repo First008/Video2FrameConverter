@@ -13,3 +13,5 @@
  cmake --build . --config Release
  
  ```
+ 
+  - I added the exe file that created with exact same code under Release folder.
