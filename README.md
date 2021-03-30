@@ -15,3 +15,13 @@
  ```
  
   - I added the exe file that created with exact same code under Release folder.
+
+  - You should name your video file as vid.mp4.
+
+  - Call the program like this: 
+
+```
+Video2FrameConverter.exe wherever:/your/video/file/ 1
+```
+  - The number stands for frame skip interval. 
+  - If you want to reduce image count you should give a number like 10 or 100.
